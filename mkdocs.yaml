@@ -1,0 +1,62 @@
+site_name: DD Training
+site_author: "Mia"
+site_description: Training guide for Dunkin Donuts
+site_url: https://46620.moe/dd
+theme:
+  name: material
+  palette:
+    scheme: slate
+nav:
+    - Home page: 'index.md'
+    - Chores:
+        - Cleaning:
+            - 'Donut case': 'chores/cleaning/donut_case.md'
+            - 'Taking out trash': 'chores/cleaning/trash.md'
+            - 'Espresso machine': 'chores/cleaning/espresso.md'
+            - 'Coffee Pots': 'chores/cleaning/coffee.md'
+            - 'Sandwich station': 'chores/cleaning/sandwich.md'
+            - 'Oasis': 'chores/cleaning/oasis.md'
+            - 'Travel Path': 'chores/cleaning/travel_path.md'
+        - Everything else:
+            - 'Redbook': 'chores/misc/redbook.md'
+#    - Drinks:
+#        - Coffee:
+#            - 'Iced/Hot Coffee': 'drinks/coffee/regular.md'
+#            - 'Mixology': 'drinks/coffee/mixology.md'
+#            - 'Hot Chocolate': 'drinks/coffee/hotcoco.md'
+#            - 'Seasonals': ''
+#        - '"Teas"':
+#            - 'Iced/Hot Tea': ''
+#            - 'Refreshers': ''
+#            - 'Matcha/Chai': ''
+#        - Espresso:
+#            - 'Lattee': ''
+#            - 'Signature Lattee': ''
+#            - 'Cappuccino': ''
+#            - 'Macchiato': ''
+#            - 'Americano': ''
+#        - Frozen:
+#            - 'Frozen Coffee': ''
+#            - 'Frozen Chocolate': ''
+#            - 'Frozen Matcha': ''
+#            - 'Coolatta': ''
+#        - Others:
+#            - 'Energy Punch': ''
+#            - 'Test Kitchen items': 'drinks/coffee/testing.md'
+#    - Sandwich Station:
+#        - 'Sandwiches': ''
+#        - 'Snacking': ''
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - fontawesome_markdown
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.tabbed:
+        alternate_style: true
