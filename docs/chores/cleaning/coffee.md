@@ -41,6 +41,6 @@ To reassemble the pot, do everything you did in the [disassemble](#disassemble) 
 
 If the plastic around the fill indicator is slightly popped off the body, you will need to hold it against the body while reattaching the fill indicator to prevent cracking it.
 
-# Post clean rinse
+## Post clean rinse
 
 After you reassemble, put the coffee pot back and run a full pot of water through it. To do this, load an empty basket (no filter), select the full option, and "Brew A". Once it's finished, empty the pot and put it back. Congrats, you have now cleaned a pot of coffee.
