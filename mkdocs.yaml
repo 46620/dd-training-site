@@ -15,7 +15,7 @@ nav:
             - 'Espresso machine': 'chores/cleaning/espresso.md'
             - 'Coffee Pots': 'chores/cleaning/coffee.md'
             - 'Sandwich station': 'chores/cleaning/sandwich.md'
-            - 'Oasis': 'chores/cleaning/oasis.md'
+            - 'Coolatta machine': 'chores/cleaning/coolatta.md'
             - 'Travel Path': 'chores/cleaning/travel_path.md'
         - Everything else:
             - 'Redbook': 'chores/misc/redbook.md'
@@ -46,6 +46,8 @@ nav:
 #    - Sandwich Station:
 #        - 'Sandwiches': ''
 #        - 'Snacking': ''
+    - Misc:
+        - 'Fixes': 'misc/fixes.md'
 
 markdown_extensions:
     - admonition
