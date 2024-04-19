@@ -1,9 +1,7 @@
 # Mocha Whipped Coffee
 
 !!! info "Test Kitchen"
-    This item is/was a test kitchen item. It will not be in all stores or even be around by the time this page is published.
-
-The mocha whipped coffee is very easy to make.
+    This item is a test kitchen item. There is no guarentee that when this page goes live the item will still be sold/in your store at all.
 
 First, fill the cup with a lattee amount of milk for the correct size.
 

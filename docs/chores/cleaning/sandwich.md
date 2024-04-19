@@ -9,7 +9,7 @@ Next turn the toaster off, hold the power button until it says the cooling fans 
 
 Then remove the filter on the toaster and clean that out, it's under the ramp is and just slides out. Gently smack it against the counter or wash it to clear it.
 
-![toaster_filter_pic](../../assets/img/toaster_filter_pic.webp)
+![toaster_filter_pic](../../assets/img/chores/cleaning/sandwich/toaster_filter_pic.webp)
 
 Next brush off and clear crumbs from the white board and slicer. Throw them at the sink.
 

@@ -8,6 +8,33 @@ theme:
     scheme: slate
 nav:
     - Home page: 'index.md'
+    - Drinks:
+        - Coffee:
+            - 'Iced/Hot Coffee': 'drinks/coffee/regular.md'
+#            - 'Mixology': 'drinks/coffee/mixology.md'
+#            - 'Hot Chocolate': 'drinks/coffee/hotcoco.md'
+#            - 'Seasonals': ''
+#        - '"Teas"':
+#            - 'Iced/Hot Tea': ''
+#            - 'Refreshers': ''
+#            - 'Matcha/Chai': ''
+        - Espresso:
+            - 'Americano': 'drinks/espresso/americano.md'
+            - 'Lattee': 'drinks/espresso/latte.md'
+            - 'Signature Lattee': 'drinks/espresso/signature-lattes.md'
+#            - 'Cappuccino': 'drinks/espresso/'
+#            - 'Macchiato': 'drinks/espresso/'
+#        - Frozen/Oasis:
+#            - 'Frozen Coffee': ''
+#            - 'Frozen Chocolate': ''
+#            - 'Frozen Matcha': ''
+#            - 'Coolatta': ''
+#            - 'Energy Punch': ''
+        - Test Kitchen:
+            - 'Mocha Whipped Coffee': 'drinks/test-kitchen/mocha-whipped-coffee.md'
+#    - Sandwich Station:
+#        - 'Sandwiches': ''
+#        - 'Snacking': ''
     - Chores:
         - Cleaning:
             - 'Donut case': 'chores/cleaning/donut_case.md'
@@ -19,33 +46,6 @@ nav:
             - 'Travel Path': 'chores/cleaning/travel_path.md'
         - Everything else:
             - 'Redbook': 'chores/misc/redbook.md'
-#    - Drinks:
-#        - Coffee:
-#            - 'Iced/Hot Coffee': 'drinks/coffee/regular.md'
-#            - 'Mixology': 'drinks/coffee/mixology.md'
-#            - 'Hot Chocolate': 'drinks/coffee/hotcoco.md'
-#            - 'Seasonals': ''
-#        - '"Teas"':
-#            - 'Iced/Hot Tea': ''
-#            - 'Refreshers': ''
-#            - 'Matcha/Chai': ''
-#        - Espresso:
-#            - 'Lattee': ''
-#            - 'Signature Lattee': ''
-#            - 'Cappuccino': ''
-#            - 'Macchiato': ''
-#            - 'Americano': ''
-#        - Frozen:
-#            - 'Frozen Coffee': ''
-#            - 'Frozen Chocolate': ''
-#            - 'Frozen Matcha': ''
-#            - 'Coolatta': ''
-#        - Others:
-#            - 'Energy Punch': ''
-#            - 'Test Kitchen items': 'drinks/coffee/testing.md'
-#    - Sandwich Station:
-#        - 'Sandwiches': ''
-#        - 'Snacking': ''
     - Misc:
         - 'Fixes': 'misc/fixes.md'
 

@@ -11,15 +11,15 @@ This is the hardest part of the process, and depending on how long it's been sin
 
 Firstly, take the spout off, you should see a little wing nut behind the spout itself, turn it to loosen the spout and take it off.
 
-![cof_spout_pic](../../assets/img/cof_spout_pic.webp)
+![cof_spout_pic](../../assets/img/chores/cleaning/coffee/cof_spout_pic.webp)
 
 Next, take apart of the spout. The top part with the handle and the part where coffee pours out are actually separate pieces. The method I do to take it apart is gripping the rim of the handle and turning the spout until it comes apart.
 
-![cof_spout2_pic](../../assets/img/cof_spout2_pic.webp)
+![cof_spout2_pic](../../assets/img/chores/cleaning/coffee/cof_spout2_pic.webp)
 
 Last part for the handle, take off the little rubber stopper inside. You might need to use a bit more force than you want and you gotta put your hand in there, but grab the top of the rubber piece and pull it out.
 
-![cof_spout3_pic](../../assets/img/cof_spout3_pic.webp)
+![cof_spout3_pic](../../assets/img/chores/cleaning/coffee/cof_spout3_pic.webp)
 
 Finally, take the fill indicator out. Push down on the piece of plastic above it and pull the tube out (there are indents on the body of the coffee pot to tell you where to grip from). Take the rubber piece out on the bottom of the tube.
 
@@ -29,9 +29,9 @@ Cleaning these parts isn't that hard, soak them in hot water with soap. If the r
 
 While those are soaking, grab a thin "hard bristle brush" and clean out the hole on the cofee pot. You will most likely get disgusted doing it, even when cleaning these on a regular basis, a lot of grounds do tent to build up inside the hole where coffee comes out, and where the fill indicator is. 
 
-![cof_bristle1_clean](../../assets/img/cof_bristle1_clean.webp)
+![cof_bristle1_clean](../../assets/img/chores/cleaning/coffee/cof_bristle1_clean.webp)
 
-![cof_bristle2_clean](../../assets/img/cof_bristle2_clean.webp)
+![cof_bristle2_clean](../../assets/img/chores/cleaning/coffee/cof_bristle2_clean.webp)
 
 While cleaning the body, fill the body with soapy water and scrub the inside with one of the brushes in the store. Rinse the pot afterwards to remove all soap.
 

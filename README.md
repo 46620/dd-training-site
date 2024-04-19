@@ -15,3 +15,7 @@ python -m virtualenv venv
 Afterwards, run `source ./venv/bin/activate` and `mkdocs serve` to start working on the website.
 
 Please take some time to familiarize yourself with mkdocs. [The site will detail everything for you.](https://www.mkdocs.org/#getting-started)
+
+## Deployment
+
+When you're ready to deploy the site, run `deploy.sh` to create a folder with the website in it. Afterwards copy it to your web root.
