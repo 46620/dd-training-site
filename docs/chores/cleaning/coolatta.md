@@ -12,13 +12,11 @@ Coolattas are a drink that people order a lot of. We gotta keep the machine(s) t
     5. Once everything is cleaned, sanitized, and dried, put everything back in. Make sure to but the bezel back on before you put the base on, it's easier that way.
 
 === "Original coolatta machine"
-    !!! failure "Under Construction"
-        This section is being worked on
     >I literally don't know the name of this machine. My store hasn't had one of these in around 4-5 years so this WILL be off of memory. If any part is wrong please tell me.
 
     1. Turn the machine off and drain it.
     2. Remove the rotation metal piece and the O-ring.
     3. Clean each piece.
     4. Relube the O-ring before putting it back in the machine.
-    5. Put eerything back in.
+    5. Put everything back in.
     6. Refill the machine with sugar water.

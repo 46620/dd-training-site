@@ -21,6 +21,14 @@ Once the oven is off, remove the stone and the grate on the inside and put them 
 
 ??? info "Why can't we get the stone wet?"
     It will explode.
+    ??? info "Why will it explode?"
+        water in stone turns into steam
+
+        steam tries to expand and rise
+        
+        it can't, pressure builds
+        
+        kablooey
 
 After the stone is removed, grab the new bottle of TurboChef cleaner. Spray the inside of the door with the cleaner and use the wire brush that's next to the ovens to scrape it into the door. Don't breathe in what you're smelling, it's gonna smell bad. Get a bunch of paper towels and blue rags to clean off the cleaner. After a while, and a lot of scraping, the door should be clean. Do the same on the inside to clean the inside.
 
