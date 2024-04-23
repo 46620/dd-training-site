@@ -2,10 +2,17 @@
 
 A latte is the most generic espresso drink, it's also one of the easiest to make.
 
-To start, brew a shot of espresso into a small metal pitcher. This is to help temper it and give the latte a better flavor.
+=== "Iced"
+    1. Grab a metal pitcher, for a small latte grab a small pitcher, medium and large use the bigger pitcher.
+    2. Add the flavor shots/swirls to the pitcher.
+    3. Add milk up to the latte line for the size you are making.
+    4. Add a shot of espresso into the pitcher and mix it.
+    5. Fill the cup to the top with ice and pour the latte over it.
 
-Next, pour the milk into another pitcher. Smalls can also go into a small pitcher, medium and large have to go into the bigger pitcher. There are lines on the inside that show you where to stop pouring. If the latte is hot, steam the milk. **MAKE SURE TO WIPE THE STEAMING WAND AFTER EVERY USE WITH A BLUE RAG FROM THE SANITIZER BUCKET**
-
-Then, add the flavors that the customer wants into the cup. Afterwards, pour the espresso into the milk pitcher and mix it all together.
-
-Lastly, pour the latte into the cup and serve. Don't forget to add ice if it's iced.
+=== "Hot"
+    1. Grab a metal pitcher, for a small latte grab a small pitcher, medium and large use the bigger pitcher.
+    2. Add milk up to the latte line for the size you are making.
+    3. Steam the milk with the steam wand on the latte machine.
+    4. Add the flavor shots/swirls to the cup.
+    5. Add a shot of espresso into the pitcher.
+    6. Pour the latte into the cup, mix the latte and the flavors.

@@ -16,4 +16,4 @@ If you don't want to sit through each page use this helpful little tip that was 
 |Churro Latte (Limited time)|Churro Swirl, Whipped Cream, Caramel Drizzle, Cinnamon Powder|
 |Peppermint Mocha (Limited time)|Peppermint Mocha Swirl, Whipped Cream, Mocha Drizzle, Mocha Powder|
 |Toasted White Chocolate (Limited time)|Toasted White Chocolate Swirl, Whipped Cream, Caramel Drizzle, Cinnamon Powder|
-|Blueberry Cobbler (No longer listed)|Blueberry Shot, Caramel Swirl, Whipped Cream, Caramel Drizzle, Cinnamon Powder|
+|Blueberry Crisp (No longer listed)|Blueberry Shot, Caramel Swirl, Whipped Cream, Caramel Drizzle, Cinnamon Powder|
