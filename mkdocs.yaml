@@ -22,7 +22,7 @@ nav:
             - 'Americano': 'drinks/espresso/americano.md'
             - 'Lattee': 'drinks/espresso/latte.md'
             - 'Signature Lattee': 'drinks/espresso/signature-lattes.md'
-#            - 'Cappuccino': 'drinks/espresso/'
+            - 'Cappuccino': 'drinks/espresso/'
 #            - 'Macchiato': 'drinks/espresso/'
 #        - Frozen/Oasis:
 #            - 'Frozen Coffee': ''
@@ -44,6 +44,9 @@ nav:
             - 'Sandwich station': 'chores/cleaning/sandwich.md'
             - 'Coolatta machine': 'chores/cleaning/coolatta.md'
             - 'Travel Path': 'chores/cleaning/travel_path.md'
+            #        - Prep:
+            #            - 'Sandwich Station Prep': 'chores/prep/sandwich.md'
+            #            - 'Drinks': 'chores/prep/drinks.md'
         - Everything else:
             - 'Redbook': 'chores/misc/redbook.md'
     - Misc:
